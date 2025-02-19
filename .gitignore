@@ -1,0 +1,7 @@
+accounting-final/node_modules/
+accounting-final/build/
+accounting-final/package-lock.json
+
+# Ignore system & IDE files
+.DS_Store
+Thumbs.db
